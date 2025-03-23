@@ -12,3 +12,4 @@ Je suis actuellement en recherche de stage à partir de début mai, de la semain
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasRaoul/LucasRaoul/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/LucasRaoul/LucasRaoul/output/github-snake.svg" />
 </picture>
+***
